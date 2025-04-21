@@ -162,6 +162,9 @@ alias gcpc="git cherry-pick --continue"
 alias gcpa="git cherry-pick --abort"
 alias gbg="git bisect good"
 alias gbb="git bisect bad"
+alias gr="git reset"
+alias gsl="git stash list"
+alias gsp="git stash pop"
 
 # tmux
 alias tmls="tmux ls"
