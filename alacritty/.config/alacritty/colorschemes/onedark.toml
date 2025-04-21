@@ -1,0 +1,60 @@
+[colors.bright]
+black = "#4C566A"
+blue = "#81A1C1"
+cyan = "#88C0D0"
+green = "#A3BE8C"
+magenta = "#B48EAD"
+red = "#BF616A"
+white = "#FFFFFF"
+yellow = "#EBCB8B"
+
+[colors.cursor]
+cursor = "CellForeground"
+text = "CellBackground"
+
+[colors.footer_bar]
+background = "#282C34"
+foreground = "#ABB2BF"
+
+[colors.hints.end]
+background = "#282C34"
+foreground = "#61AFEF"
+
+[colors.hints.start]
+background = "#61AFEF"
+foreground = "#282C34"
+
+[colors.line_indicator]
+background = "None"
+foreground = "None"
+
+[colors.normal]
+black = "#2E3440"
+blue = "#81A1C1"
+cyan = "#88C0D0"
+green = "#A3BE8C"
+magenta = "#B48EAD"
+red = "#BF616A"
+white = "#E5E9F0"
+yellow = "#EBCB8B"
+
+[colors.primary]
+background = "#282C34"
+bright_foreground = "#FFFFFF"
+foreground = "#ABB2BF"
+
+[colors.search.focused_match]
+background = "#FFB86C"
+foreground = "#44475A"
+
+[colors.search.matches]
+background = "#5E81AC"
+foreground = "#44475A"
+
+[colors.selection]
+background = "#44475A"
+text = "CellForeground"
+
+[colors.vi_mode_cursor]
+cursor = "CellForeground"
+text = "CellBackground"
